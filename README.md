@@ -30,7 +30,7 @@ Deployment:
 ## Screenshots
 
 ### Home
-![Home] (screenshots/Home.png)
+![Home](screenshots/Home.png)
 
 ### Dashboard
 ![Dashboard](screenshots/Dashboard.png)
