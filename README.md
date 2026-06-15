@@ -26,3 +26,17 @@ Backend:
 Deployment:
 - Vercel (Frontend)
 - Render (Backend)
+
+## Screenshots
+
+### Home
+![Home] (screenshots/Home.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Scene Management
+![Scenes](screenshots/Scenes.png)
+
+### Budget Management
+![Budget](screenshots/Budget.png)
