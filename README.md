@@ -35,8 +35,8 @@ Deployment:
 ### Dashboard
 ![Dashboard](screenshots/Dashboard.png)
 
-### Scene Management
-![Scenes](screenshots/Scenes.png)
+### Login
+![LOgin](screenshots/Login.png)
 
 ### Budget Management
 ![Budget](screenshots/Budget.png)
